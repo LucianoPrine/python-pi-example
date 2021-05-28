@@ -1,1 +1,2 @@
 Adding some text to my_file.txt
+Adding some more text from linux terminal
